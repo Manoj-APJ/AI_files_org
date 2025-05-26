@@ -1,6 +1,6 @@
 // Gemini API Configuration
 // Make sure this is your proper Gemini API key with proper permissions
-export const GEMINI_API_KEY = 'AIzaSyBIStl4NXyEbxkcNRf9EuTqEeB_44op2nw';
+export const GEMINI_API_KEY = 'Gemini_Api_kEY';
 
 // Validate API key format
 if (!GEMINI_API_KEY) {
